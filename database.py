@@ -1,6 +1,7 @@
 import sqlite3
 import bcrypt
 import os
+import pandas as pd
 
 DATABASE = 'anemia_hospital.db'
 
